@@ -1,0 +1,17 @@
+.container{
+    margin: 75px;
+    padding: 20px;
+    background-color: rgb(28, 83, 83);
+}
+.card-header{
+    color: white;
+}
+img{
+    text-align: center; 
+}
+.card{
+    background-color: #B6B6B4;
+}
+p{
+    color: white;
+}
